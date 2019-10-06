@@ -1,2 +1,7 @@
 # sti
-generae sti account
+generate sti account
+
+++++++++
+user:
+pass:
+++++++++
